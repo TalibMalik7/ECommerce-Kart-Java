@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<?import javafx.scene.layout.GridPane?>
+
+<GridPane fx:controller="com.example.supplychain.HelloController"
+       xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+       <Button layoutX="250" layoutY="250" text="Hello" onMouseClicked="#helloclick"></Button>
+</GridPane>
