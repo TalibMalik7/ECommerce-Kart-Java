@@ -14,5 +14,4 @@ It has various functionality like -
 ![Screenshot (174)](https://user-images.githubusercontent.com/119570997/205338573-99cbe41d-4cdd-478f-b061-a3059d40d7b5.png)
 ![Screenshot (174)](https://user-images.githubusercontent.com/119570997/205338589-6ebf459c-facd-4856-8a22-849db4934f6b.png)
 ![Screenshot (173)](https://user-images.githubusercontent.com/119570997/205338609-48cdca3d-9c82-4026-8e6c-0bc819b67742.png)
-![Screenshot (172)](https://user-images.githubusercontent.com/119570997/205338648-f2158838-6b20-4bb3-99f2-f99045d39339.png)
 ![Screenshot (171)](https://user-images.githubusercontent.com/119570997/205338658-f48a004f-9d18-47f5-abf9-0cdf6d18c18a.png)
